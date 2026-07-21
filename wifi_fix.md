@@ -1,14 +1,7 @@
-# CachyOS and My MacBook Pro 2015
+# CachyOS Wifi fix
+Almost all of this is from https://inku.bot.nu/posts/cachyos-macbook/
 
-This unsupported MacBook from Apple is already 11 years old, but still is good decent hardware. Current macOS feels too much for it, so I went the Linux path.
-
-First I did try **Slackware**, which was OK but performance wasn't that great — fans were kicking in all the time so it was not perfect.
-
-I moved to **OpenBSD**, which was great! But, it is OpenBSD so very restricted and things like Bluetooth or camera didn't work. Also simple tasks like casting a tab to a Chromecast is not possible. Anyway, I did stay with OpenBSD for at least 3 releases, but the last 2 releases did break the boot process and to fix it did require editing `acpi.c` and compiling the kernel. They do have a bug open but for sure the focus of the devs is on silicon devices from Apple.
-
-Some days ago, I read a post about this Arch-based distro named **CachyOS**, which has a focus on speed and performance, and I decided to give it a shot.
-
-This 11-year-old laptop feels awesome! It's fast, responsive, I barely hear the fans now and doesn't need major tweaking besides the WiFi.
+my addtion is that to use WPA2/WPA3 mode for authentication , since my laptop struggled with WPA3 authentication
 
 ---
 
