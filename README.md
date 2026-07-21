@@ -5,7 +5,7 @@ One-command installer to get the Touch Bar working on MacBook Pro 14,2 (2017) wi
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mbp-touchbar-cachyos.git
+git clone https://github.com/joiboi/mbp-touchbar-cachyos.git
 cd mbp-touchbar-cachyos
 sudo ./scripts/install.sh
 sudo reboot
