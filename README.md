@@ -14,7 +14,7 @@ sudo reboot
 ## Manual Guide 
 
 - **[Manual Guide link](https://github.com/joiboi/macbookpro-touchbar-cachyos/blob/main/mbp_touchbar_guide_manual.md)** 
-
+- **[Wifi Fix](https://github.com/joiboi/macbookpro-touchbar-cachyos/blob/main/wifi_fix.md)** 
 
 ## What This Fixes
 | Problem                               | Cause                           | Fix                                   |
