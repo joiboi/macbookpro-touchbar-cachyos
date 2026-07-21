@@ -3,27 +3,23 @@
 > **Hardware:** MacBook Pro 14,2 (2017) with T1 chip
 > **OS:** CachyOS (Arch-based, kernel 7.1.3+)
 > **Goal:** Touch Bar display + input fully working
-          .+=========================.                    ----------------
-         :++===++==================-       :++-           OS: CachyOS x86_64
-        :*++====+++++=============-        .==:           Host: MacBook Pro (13-inch, 2017, Four Thunderbolt 3 ports) (1.0)
-       -*+++=====+***++==========:                        Kernel: Linux 7.1.3-2-cachyos
-      =*++++========------------:                         Uptime: 18 mins
-     =*+++++=====-                     ...                Packages: 9 (flatpak), 1398 (pacman)
-   .+*+++++=-===:                    .=+++=:              Shell: fish 4.8.1
-  :++++=====-==:                     -*****+              Display (Color LCD): 2560x1600 @ 1.5x in 13", 60 Hz [Built-in] *
- :++========-=.                      .=+**+.              Display (DELL S2721Q): 2560x1440 in 27", 60 Hz [External]
-.+==========-.                          .                 Display (PHL 243V5): 1920x1080 in 24", 60 Hz [External]
- :+++++++====-                                .--==-.     DE: KDE Plasma 6.7.3
-  :++==========.                             :+++++++:    WM: KWin (Wayland)
-   .-===========.                            =*****+*+    WM Theme: Breeze
-    .-===========:                           .+*****+:    Theme: Breeze (Dark) [Qt], Breeze-Dark [GTK2], Breeze [GTK3]
-      -=======++++:::::::::::::::::::::::::-:  .---:      Icons: breeze-dark [Qt], breeze-dark [GTK2/3/4]
-       :======++++====+++******************=.             Font: Noto Sans (10pt) [Qt], Noto Sans (10pt) [GTK2/3/4]
-        :=====+++==========++++++++++++++*-               Cursor: breeze (24px)
-         .====++==============++++++++++*-                Terminal: konsole 26.4.3
-          .===+==================+++++++:                 CPU: Intel(R) Core(TM) i5-7267U (4) @ 3.50 GHz
-           .-=======================+++:                  GPU: Intel Iris Plus Graphics 650 @ 1.05 GHz [Integrated]
-             ..........................                   Memory: 4.24 GiB / 7.62 GiB (56%)
+
+My setup
+OS: CachyOS x86_64
+Host: MacBook Pro (13-inch, 2017, Four Thunderbolt 3 ports) (1.0)
+Kernel: Linux 7.1.3-2-cachyos
+Shell: fish 4.8.1
+DE: KDE Plasma 6.7.3
+WM: KWin (Wayland)
+WM Theme: Breeze
+Theme: Breeze (Dark) [Qt], Breeze-Dark [GTK2], Breeze [GTK3]
+Icons: breeze-dark [Qt], breeze-dark [GTK2/3/4]
+Font: Noto Sans (10pt) [Qt], Noto Sans (10pt) [GTK2/3/4]
+Cursor: breeze (24px)
+Terminal: konsole 26.4.3
+CPU: Intel(R) Core(TM) i5-7267U (4) @ 3.50 GHz
+GPU: Intel Iris Plus Graphics 650 @ 1.05 GHz [Integrated]
+ Memory: 4.24 GiB / 7.62 GiB (56%)
                                                           Swap: 0 B / 7.62 GiB (0%)
 
 ---
