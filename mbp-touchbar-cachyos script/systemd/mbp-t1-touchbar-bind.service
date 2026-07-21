@@ -1,0 +1,13 @@
+[Unit]
+Description=Rebind Apple iBridge (T1) USB Device for Touch Bar
+# NOTE: This service is DISABLED by default.
+# Enabling it causes a USB rebind that turns off the Touch Bar display.
+# See: https://github.com/YOUR_USERNAME/mbp-touchbar-cachyos
+
+[Service]
+Type=oneshot
+ExecStart=/usr/lib/mbp-t1-touchbar/bind-touchbar.sh
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target

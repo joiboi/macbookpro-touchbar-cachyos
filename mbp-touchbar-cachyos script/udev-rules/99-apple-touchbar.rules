@@ -1,0 +1,2 @@
+# Input permissions for iBridge Touch Bar
+SUBSYSTEM=="input", ATTRS{name}=="*iBridge Virtual HID*", MODE="0664", GROUP="input", TAG+="uaccess"
