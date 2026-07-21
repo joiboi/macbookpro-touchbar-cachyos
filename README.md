@@ -11,6 +11,11 @@ sudo ./scripts/install.sh
 sudo reboot
 ```
 
+## Manual Guide 
+
+- **[Manual Guide link](https://github.com/joiboi/macbookpro-touchbar-cachyos/blob/main/mbp_touchbar_guide_manual.md)** 
+
+
 ## What This Fixes
 | Problem                               | Cause                           | Fix                                   |
 | ------------------------------------- | ------------------------------- | ------------------------------------- |
